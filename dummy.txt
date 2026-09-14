@@ -1,0 +1,12 @@
+Esto es un archivo dummy de ejemplo.
+Creado el: 2026-09-14
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Datos de ejemplo:
+- id: 123
+- nombre: "Ejemplo"
+- activo: true
+
+Contenido dummy para pruebas.
