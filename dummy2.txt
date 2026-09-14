@@ -1,0 +1,11 @@
+Dummy file #2 - ejemplo secundario
+Creado el: 2026-09-14
+
+Datos de prueba:
+- id: 456
+- nombre: "Ejemplo 2"
+- activo: false
+- tags: ["test", "dummy", "segundo"]
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Contenido adicional para pruebas.
